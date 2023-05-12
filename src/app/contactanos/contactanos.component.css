@@ -1,0 +1,34 @@
+.enca {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin: auto;
+}
+
+.tit {
+  display: flex;
+}
+
+.dire {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact {
+  margin-left: 100px;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.map {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  height: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
